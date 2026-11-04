@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bat Gate</string>
+    <string name="service_desc">Redirects Instagram to Substack and unlocks Instagram only after 5 minutes of Substack reading.</string>
+</resources>
